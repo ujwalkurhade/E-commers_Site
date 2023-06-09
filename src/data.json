@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "123",
+      "title": "Asus Rog",
+      "price": "20000",
+      "img": "https://m.media-amazon.com/images/I/81g8MJaegpL._AC_UY218_.jpg"
+    },
+    {
+      "id": "124",
+      "title": "Lenovo Legion",
+      "price": "30000",
+      "img": "https://m.media-amazon.com/images/I/71g738C1z0L._AC_UY218_.jpg"
+    },
+    {
+      "id": "125",
+      "title": "Boat Airdopes",
+      "price": "1000",
+      "img": "https://m.media-amazon.com/images/I/51YOeZehIKL._AC_UY218_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Echo Dot 3",
+      "price": "1000",
+      "img": "https://m.media-amazon.com/images/I/61EXU8BuGZL._AC_UY218_.jpg"
+    }
+  ]
+}

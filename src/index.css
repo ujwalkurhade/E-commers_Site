@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.dashboard {
+  background: slategrey;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.leftnav {
+  width: 20%;
+}
+.main {
+  display: flex;
+  gap: 20px;
+}
+.uppnav {
+  background: green;
+  width: 100%;
+  height: 13 rem;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 10px 0 10px; */
+}
+.uppnav p {
+  font-size: 25px;
+}
+
+.Quntiti {
+  display: flex;
+  gap: 10px;
+}
+.ProductList {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  gap: 15px;
+}
+
+.productcard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 5px;
+}
